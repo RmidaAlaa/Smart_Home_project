@@ -1,6 +1,6 @@
 # Smart Home Security System with Raspberry Pi
 
-![Smart Home Security System](images/ProjectImage.PNG) <!-- Replace "your_image.jpg" with an image of your project setup -->
+![Smart Home Security System](images/Image.PNG) <!-- Replace "your_image.jpg" with an image of your project setup -->
 
 ## Table of Contents
 - [Introduction](#introduction)
